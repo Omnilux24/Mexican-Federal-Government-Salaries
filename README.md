@@ -37,3 +37,4 @@ To reproduce the analysis and visualizations:
 
 1. Clone this repository to your local machine:
 
+![Example Image](output.png)
