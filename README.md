@@ -20,10 +20,10 @@ Recruiters and users interested in understanding data cleaning, analysis, and vi
 
 ## Data
 
-The dataset used in this project can be found in the [mexican_salaries.csv](data/mexican_salaries.csv) file. It includes information about employees, their positions, salaries, and reporting periods.
+The dataset used in this project can be found in the [mexican_salaries.csv](salaries.csv) file. It includes information about employees, their positions, salaries, and reporting periods.
 
 ## Project Structure
-
+![Example Image](piachartpng.png)
 The project is organized as follows:
 
 - `data/`: Contains the dataset used for analysis.
